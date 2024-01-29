@@ -1,3 +1,4 @@
 # Overrides for production environment
-baseurl = "https://https://docs.twown.com/"
+baseurl = "https://https://docs.docs.twown.com/"
 canonifyURLs = true
+copyRight = "Copyright (c) 2020-2024 twOwn"

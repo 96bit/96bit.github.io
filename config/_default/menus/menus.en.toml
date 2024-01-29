@@ -1,21 +1,3 @@
-# [[docs]]
-#   name = "Prologue"
-#   weight = 10
-#   identifier = "prologue"
-#   url = "/docs/prologue/"
-
-# [[docs]]
-#   name = "Help"
-#   weight = 60
-#   identifier = "help"
-#   url = "/docs/help/"
-
-# [[docs]]
-#   name = "Lorem"
-#   weight = 70
-#   identifier = "lorem"
-#   url = "/docs/lorem/"
-
 [[guide]]
   name = "Lorem"
   weight = 10
@@ -30,9 +12,10 @@
 
 [[main]]
   name = "Docs"
-  url = "/docs/guides/example-guide/"
+  url = "/docs/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
+
 
 [[main]]
   name = "Blog"
@@ -44,12 +27,12 @@
 #   pre = '<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-x" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M4 4l11.733 16h4.267l-11.733 -16z"></path><path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772"></path></svg>'
 #   url = "https://twitter.com/getdoks"
 #   weight = 10
-# 
-# [[social]]
-#   name = "Discord"
-#   pre = '<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-discord" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M8 12a1 1 0 1 0 2 0a1 1 0 0 0 -2 0"></path><path d="M14 12a1 1 0 1 0 2 0a1 1 0 0 0 -2 0"></path><path d="M8.5 17c0 1 -1.356 3 -1.832 3c-1.429 0 -2.698 -1.667 -3.333 -3c-.635 -1.667 -.476 -5.833 1.428 -11.5c1.388 -1.015 2.782 -1.34 4.237 -1.5l.975 1.923a11.913 11.913 0 0 1 4.053 0l.972 -1.923c1.5 .16 3.043 .485 4.5 1.5c2 5.667 2.167 9.833 1.5 11.5c-.667 1.333 -2 3 -3.5 3c-.5 0 -2 -2 -2 -3"></path><path d="M7 16.5c3.5 1 6.5 1 10 0"></path></svg>'
-#   url = "https://getdoks.org/chat"
-#   weight = 20
+
+[[social]]
+  name = "Telegram"
+  pre = '<svg t="1706542708636" class="icon" width="24" height="24"  viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2077" width="200" height="200"><path d="M912.213333 154.026667A85.333333 85.333333 0 0 0 853.333333 128a85.333333 85.333333 0 0 0-33.28 6.826667l-708.266666 306.773333a42.666667 42.666667 0 0 0-26.453334 42.666667V512a42.666667 42.666667 0 0 0 29.44 42.666667L298.666667 616.106667l55.466666 187.306666a75.946667 75.946667 0 0 0 56.32 53.333334 62.72 62.72 0 0 0 15.36 0 73.813333 73.813333 0 0 0 50.773334-20.48l67.84-64 131.413333 103.68a85.333333 85.333333 0 0 0 90.026667 9.386666l14.08-7.253333a88.32 88.32 0 0 0 46.506666-62.72L938.666667 235.093333a90.026667 90.026667 0 0 0-26.453334-81.066666zM763.733333 805.12a25.173333 25.173333 0 0 1-12.8 17.493333l-14.08 7.253334a19.626667 19.626667 0 0 1-8.96 2.133333 19.626667 19.626667 0 0 1-12.373333-4.693333l-160.426667-128a20.906667 20.906667 0 0 0-27.733333 0l-94.72 89.173333a11.093333 11.093333 0 0 1-5.973333 2.133333V640a21.76 21.76 0 0 1 6.826666-15.786667c136.106667-128 217.6-199.68 266.24-240.64a15.786667 15.786667 0 0 0 5.12-11.093333 13.653333 13.653333 0 0 0-4.266666-11.093333 14.933333 14.933333 0 0 0-17.92-4.266667l-322.56 203.52a21.333333 21.333333 0 0 1-18.346667 0L149.333333 494.933333l694.186667-301.226666a16.64 16.64 0 0 1 7.68 0 22.186667 22.186667 0 0 1 16.213333 7.68 26.88 26.88 0 0 1 6.826667 23.466666z" p-id="2078"></path></svg>'
+  url = "https://telegram.org"
+  weight = 20
 
 [[social]]
   name = "GitHub"
