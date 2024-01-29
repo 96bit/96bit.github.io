@@ -1,0 +1,3 @@
+# Overrides for production environment
+baseurl = "https://tsaohe.github.io/"
+canonifyURLs = true
