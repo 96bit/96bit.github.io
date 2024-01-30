@@ -6,7 +6,7 @@
     languageISO = "EN"
     languageTag = "en-US"
     footer = 'Brought to you by <a class="text-muted" href="https://docs.twown.com/">Twown</a>'
-    alertText = '<a class="alert-link stretched-link fw-normal" href="/docs/alarm/alarmapp">Alarm version 1.0 just shipped!</a>'
+    alertText = '<a class="alert-link stretched-link fw-normal" href="/docs/alarm/alarmpaw">Alarm version 1.0 just shipped!</a>'
 
 [de]
   languageName = "German"
