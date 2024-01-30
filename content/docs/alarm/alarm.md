@@ -104,19 +104,19 @@ https://SERVER_ADDRESS/yourkey/需要分组的推送?group=groupName
 ```
 * icon (仅 iOS15 或以上支持）
 ```
-// 指定推送消息图标
+// Specify the push notification icon.
 https://SERVER_ADDRESS/yourkey/需要自定义图标的推送?icon=http://day.app/assets/images/avatar.jpg
 
 ```
 * image 
 ```
 // 可以携带一张图片URL,直接在通知里展示
-https://SERVER_ADDRESS/yourkey/需要自定义图标的推送?image=http://day.app/assets/images/avatar.jpg
+https://SERVER_ADDRESS/yourkey/Body?image=http://day.app/assets/images/avatar.jpg
 ```
-* 时效性通知
+* Timed Notifications
 ```
-// 设置时效性通知
-https://SERVER_ADDRESS/yourkey/时效性通知?level=timeSensitive
+// Set a timed notification
+https://SERVER_ADDRESS/yourkey/Timed Notifications?level=timeSensitive
 
 // 可选参数值
 // active：不设置时的默认值，系统会立即亮屏显示通知。
