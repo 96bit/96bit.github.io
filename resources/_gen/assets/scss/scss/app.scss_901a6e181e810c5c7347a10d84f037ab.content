@@ -14457,5 +14457,11 @@ body {
   background-color: {{ site.Params.doks.backGround }};
 }
 */
+.btn-primary {
+  background-color: #ff0000 !important; }
+
+.alert-primary {
+  background-color: #ff9500 !important;
+  font-weight: bold !important; }
 
 /*# sourceMappingURL=main.css.map */
