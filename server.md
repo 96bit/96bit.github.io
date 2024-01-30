@@ -1,24 +1,3 @@
----
-title: "Server"
-description: ""
-summary: ""
-date: 2024-01-30T15:46:57+08:00
-lastmod: 2024-01-30T15:46:57+08:00
-draft: false
-menu:
-  docs:
-    parent: ""
-    identifier: "server-4d5aaef180bd358ce46c01585f1beac0"
-weight: 999
-toc: true
-seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
----
-
-
 # AlarmPawServer
 
 

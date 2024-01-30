@@ -1,26 +1,3 @@
----
-title: "AlarmPawEn"
-description: ""
-summary: ""
-date: 2024-01-29T23:25:38+08:00
-lastmod: 2024-01-29T23:25:38+08:00
-draft: false
-menu:
-  docs:
-    parent: ""
-    identifier: "alarm-498d513f08748d2e5bb2f86be4634b1c"
-weight: 1
-toc: true
-seo:
-  title: "alarm" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
----
-
-
-
-
 # IOS App
 
 * All app functionality is developed following [Bark](https://github.com/Finb/Bark), with the only difference being the push certificate and server. Please refer to the Bark documentation for usage.

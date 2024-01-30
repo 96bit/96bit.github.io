@@ -1,23 +1,3 @@
----
-title: "AlarmPaw"
-description: ""
-summary: ""
-date: 2024-01-29T22:51:34+08:00
-lastmod: 2024-01-29T22:51:34+08:00
-draft: false
-menu:
-  docs:
-    parent: ""
-    identifier: "alarm-6575bc015b8380ec488d28ffd028740a"
-weight: 3
-toc: true
-seo:
-  title: "Alarm" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
----
-
 # IOS App
 
 * App 所有功能均参照[Bark](https://github.com/Finb/Bark)开发, 只是推送的证书和服务器不同，请直接参照bark文档进行使用
